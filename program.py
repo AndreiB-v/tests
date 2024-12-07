@@ -5,6 +5,7 @@ def my_superfunction():
 
 def my_superfunction():
     print('What an awesome print!')
+    print('Hello, python!!!')
 
 
 def main():
