@@ -1,3 +1,8 @@
+# Yandexlyceum
+def my_superfunction():
+    print('What an awesome print!')
+
+
 def my_superfunction():
     print('What an awesome print!')
 
